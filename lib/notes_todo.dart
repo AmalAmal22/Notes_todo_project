@@ -27,6 +27,7 @@ class _NotesTodoState extends State<NotesTodo> {
     return Scaffold(
 
       appBar: AppBar(
+
           title: Text(
         'Notes',
         style: TextStyle(fontSize: 37, color: Colors.brown),
